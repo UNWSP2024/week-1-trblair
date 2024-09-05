@@ -2,5 +2,5 @@
 #Hello World Display
 def hello_world():
     # Displays the message "Hello World"
-    print("Hello World\n")
+    print("Hello World")
 hello_world()
