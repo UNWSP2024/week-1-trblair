@@ -1,6 +1,5 @@
 #This program was written on 8/29/2024 by Tristan Blair
 #Proverbs Display
-import 
 def proverbs_22_29():
     # Displays the bible verse Proverbs 22:29
     print('“Do you see a man skillful in his work?')
